@@ -1,11 +1,20 @@
-# Install-Hacking-Tools
-A bash script that installs and configures the top 30 hacking tools for Ubuntu (or Kali) focused on CTFs, Pentesting, and Red Teaming. As needed, the script installs tools via apt, pip, or from GitHub.
+# 🛠️ Offensive Security Toolkit Installer
 
--How to Use It
-1. Save the script as install-hacking-tools.sh
-2. Give it executable permissions:
-   
-   chmod +x install-hacking-tools.sh
-4. Run it:
+A unified repository to install top-tier **Red Team**, **CTF**, and **Pentesting tools** on Ubuntu (Desktop/Server) and Virtual Machines.
 
-   ./install-hacking-tools.sh
+---
+
+## 📦 Quick Installation
+
+### 🔴 Red Team Tools
+
+```bash
+chmod +x install-redteam-tools.sh
+./install-redteam-tools.sh
+```
+
+### ⚙️ CTF & Pentesting Tools
+```bash
+chmod +x install-ctf-tools.sh
+./install-ctf-tools.sh
+```
