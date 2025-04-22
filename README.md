@@ -3,6 +3,8 @@ A bash script that installs and configures the top 30 hacking tools for Ubuntu (
 -How to Use It
 1. Save the script as install-hacking-tools.sh
 2. Give it executable permissions:
+   
    chmod +x install-hacking-tools.sh
-3. Run it:
+4. Run it:
+   
   ./install-hacking-tools.sh
