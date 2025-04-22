@@ -6,6 +6,13 @@ A unified repository to install top-tier **Red Team**, **CTF**, and **Pentesting
 
 ## 📦 Quick Installation
 
+### All Tools
+
+```bash
+chmod +x install-all-tools.sh
+./install-all-tools.sh
+```
+
 ### 🔴 Red Team Tools
 
 ```bash
@@ -26,12 +33,16 @@ chmod +x install-ctf-tools.sh
 - CrackMapExec, Mimikatz, BloodHound  
 - Evilginx2, Gophish, Nishang  
 - Ligolo-ng, Chisel, Donut, PEzor  
+- Cobalt Strike
+- Empire
 
 ### ⚙️ CTF/Pentesting Script (`install-ctf-tools.sh`)
 - Nmap, Gobuster, Dirsearch, Nikto  
 - Burp Suite, SQLMap, JohnTheRipper  
 - Metasploit, Ghidra, Radare2  
 - Wireshark, Hydra, Hashcat, pwndbg  
+- Netcat
+- Recon-ng  
 
 ---
 
