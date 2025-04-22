@@ -6,5 +6,5 @@ A bash script that installs and configures the top 30 hacking tools for Ubuntu (
    
    chmod +x install-hacking-tools.sh
 4. Run it:
-   
-  ./install-hacking-tools.sh
+
+   ./install-hacking-tools.sh
